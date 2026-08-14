@@ -1,0 +1,1 @@
+LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。https://github.com/XCQ0607/lxserver
